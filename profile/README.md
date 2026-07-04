@@ -34,15 +34,15 @@ A **Swice Network** é um servidor de Minecraft que busca oferecer a melhor expe
 <table>
   <tr>
     <td width="100"><img src="https://vzge.me/bust/ncwx.png" width="80" height="80"></td>
-    <td width="250"><b>ncwx</b><br>Website</td>
+    <td width="300"><b>ncwx</b><br>Responsável pelo desenvolvimento web e manutenção do site oficial</td>
   </tr>
   <tr>
     <td width="100"><img src="https://vzge.me/bust/lupiew.png" width="80" height="80"></td>
-    <td width="250"><b>lupiew</b><br>Bot</td>
+    <td width="300"><b>lupiew</b><br>Responsável pela criação e gerenciamento dos bots da rede</td>
   </tr>
   <tr>
     <td width="100"><img src="https://vzge.me/bust/xztey.png" width="80" height="80"></td>
-    <td width="250"><b>xztey</b><br>Game</td>
+    <td width="300"><b>xztey</b><br>Responsável pelo desenvolvimento e balanceamento dos mini-games</td>
   </tr>
 </table>
 
