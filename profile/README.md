@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Swice Network
+<img src="https://cdn.discordapp.com/attachments/1514795383002501211/1522767981921308692/image.png?ex=6a49abb2&is=6a485a32&hm=8c67a0e92d6c576e1cb5daad602c6ee56e08fa6059ed7e3dc7b0b928c6759f6f" alt="Swice Network" width="400">
 
 **Servidor de Minecraft** — Performance, estabilidade e diversão!
 
