@@ -31,11 +31,20 @@ A **Swice Network** é um servidor de Minecraft que busca oferecer a melhor expe
 
 ## Créditos
 
-| | |
-|---|---|
-| <img src="https://mc-heads.net/avatar/ncwx" width="48" height="48"> | **ncwx**<br>Website |
-| <img src="https://mc-heads.net/avatar/lupiew" width="48" height="48"> | **lupiew**<br>Bot |
-| <img src="https://mc-heads.net/avatar/xztey" width="48" height="48"> | **xztey**<br>Game |
+<table>
+  <tr>
+    <td width="60"><img src="https://mc-heads.net/avatar/ncwx" width="48" height="48"></td>
+    <td width="200"><b>ncwx</b><br>Website</td>
+  </tr>
+  <tr>
+    <td width="60"><img src="https://mc-heads.net/avatar/lupiew" width="48" height="48"></td>
+    <td width="200"><b>lupiew</b><br>Bot</td>
+  </tr>
+  <tr>
+    <td width="60"><img src="https://mc-heads.net/avatar/xztey" width="48" height="48"></td>
+    <td width="200"><b>xztey</b><br>Game</td>
+  </tr>
+</table>
 
 ---
 
