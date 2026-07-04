@@ -44,6 +44,10 @@ A **Swice Network** é uma rede de servidores de Minecraft que busca oferecer a 
     <td width="100"><img src="https://vzge.me/bust/xztey.png" width="80" height="80"></td>
     <td width="300"><b>xztey</b><br>Responsável pelo desenvolvimento e balanceamento dos mini-games</td>
   </tr>
+  <tr>
+    <td width="100"><img src="https://vzge.me/bust/oleugim.png" width="80" height="80"></td>
+    <td width="300"><b>oleugim</b><br>Responsável por designs e artes da rede</td>
+  </tr>
 </table>
 
 ---
