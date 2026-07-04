@@ -31,20 +31,33 @@ A **Swice Network** é um servidor de Minecraft que busca oferecer a melhor expe
 
 ## Créditos
 
-<p>
-  <img src="https://mc-heads.net/avatar/ncwx" width="48" height="48" style="vertical-align: middle;"> <b>ncwx</b><br>
-  <span style="margin-left: 56px;">Website</span>
-</p>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://mc-heads.net/avatar/ncwx" width="48" height="48">
+  <div>
+    <b style="font-size: 16px;">ncwx</b><br>
+    <span style="font-size: 14px;">Website</span>
+  </div>
+</div>
 
-<p>
-  <img src="https://mc-heads.net/avatar/lupiew" width="48" height="48" style="vertical-align: middle;"> <b>lupiew</b><br>
-  <span style="margin-left: 56px;">Bot</span>
-</p>
+<br>
 
-<p>
-  <img src="https://mc-heads.net/avatar/xztey" width="48" height="48" style="vertical-align: middle;"> <b>xztey</b><br>
-  <span style="margin-left: 56px;">Game</span>
-</p>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://mc-heads.net/avatar/lupiew" width="48" height="48">
+  <div>
+    <b style="font-size: 16px;">lupiew</b><br>
+    <span style="font-size: 14px;">Bot</span>
+  </div>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://mc-heads.net/avatar/xztey" width="48" height="48">
+  <div>
+    <b style="font-size: 16px;">xztey</b><br>
+    <span style="font-size: 14px;">Game</span>
+  </div>
+</div>
 
 ---
 
